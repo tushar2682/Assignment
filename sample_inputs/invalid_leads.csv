@@ -1,0 +1,6 @@
+created_at,name,email,mobile_without_country_code,company,city,state,country,crm_note
+2026-05-13 14:20:48,Valid Lead 1,valid1@example.com,9876543210,GrowEasy,Mumbai,Maharashtra,India,Has both email and mobile
+2026-05-13 14:22:00,Valid Lead 2,,9876543211,GrowEasy,Pune,Maharashtra,India,Has only mobile (valid)
+2026-05-13 14:25:30,Valid Lead 3,valid3@example.com,,Tech Solutions,Bangalore,Karnataka,India,Has only email (valid)
+2026-05-13 14:30:15,Invalid Lead 1,,,Startup Inc,Delhi,Delhi,India,Should be skipped (no email or mobile)
+2026-05-13 14:35:22,Invalid Lead 2,,,Enterprise Corp,Pune,Maharashtra,India,Should be skipped (no email or mobile)

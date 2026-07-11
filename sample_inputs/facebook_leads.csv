@@ -1,0 +1,5 @@
+created_time,full_name,email,phone_number,company_name,city,state,country,lead_owner_email,status,notes,source,possession,text_description
+2026-06-10 09:15:30,Alice Cooper,alice.c@outlook.com,+1 415-555-2671,Cooper Industries,San Francisco,California,United States,admin@groweasy.ai,interested,"Client has an active team of 15 and is seeking to migrate records by next month.",leads_on_demand,,Need CRM migration support
+2026-06-10 10:20:45,Bob Marley,bob.marley@reggae.com,+1 312-555-8291,Reggae Beats,Chicago,Illinois,United States,sales@groweasy.ai,not_answering,"Called twice, went to voicemail. Will retry tomorrow morning.",eden_park,,Busy during early hours
+2026-06-10 11:30:00,Charlie Chaplin,charlie@silentfilm.org,+44 7911 123456,Silent Comedy,London,Greater London,United Kingdom,admin@groweasy.ai,converted,"Deal closed! Onboarding starts next Monday at 10 AM.",sarjapur_plots,Immediate,Needs setup walk-through
+2026-06-10 12:45:12,Diana Ross,diana.ross@divas.com,+61 2 9382 9182,Motown Productions,Sydney,New South Wales,Australia,sales@groweasy.ai,unqualified,"Lead does not have budget or team size requirements. Closing.",varah_swamy,,Low budget tier
